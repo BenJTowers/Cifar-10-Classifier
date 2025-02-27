@@ -3,7 +3,7 @@ A deep learning project to classify images from the CIFAR-10 dataset using PyTor
 
 Project Overview
 This project implements and improves a Convolutional Neural Network (CNN) to classify images into 10 categories:
-✈️ Airplane, 🚗 Automobile, 🐦 Bird, 🐱 Cat, 🦁 Deer, 🐶 Dog, 🐸 Frog, 🐴 Horse, 🛳️ Ship, 🛵 Truck.
+✈️ Airplane, 🚗 Automobile, 🐦 Bird, 🐱 Cat, 🦁 Deer, 🐶 Dog, 🐸 Frog, 🐴 Horse, 🛳️ Ship, 🚚 Truck.
 
 The goal is to iteratively enhance model performance, targeting 88% test accuracy.
 
